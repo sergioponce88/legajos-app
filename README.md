@@ -5,7 +5,7 @@ Solo contienen el ícono y la "cáscara" que abre el sistema; no hay datos ni c�
 
 | App | Dirección | Abre |
 |---|---|---|
-| Portal del Cadete | `https://sergioponce88.github.io/legajos-app/` | https://legajoacademicoiesp.streamlit.app |
+| Portal del Cadete | `https://sergioponce88.github.io/legajos-app/cadete/` | https://legajoacademicoiesp.streamlit.app |
 | Legajos IESP (Gestión) | `https://sergioponce88.github.io/legajos-app/gestion/` | https://legajoacademicoiesp.streamlit.app/?gestion |
 
 Instalar: Android (Chrome) → «Instalar app» o ⋮ → Agregar a pantalla principal. iPhone (Safari) → Compartir → Agregar a inicio.
